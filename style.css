@@ -2,8 +2,5 @@
     background-image: url('images/bg-login.jpg');
     background-size: cover;
     height: 100vh;
-    /* background-color: aqua; */
+  
 }
-.spacing {
-    margin-bottom: 10px;
-  }
